@@ -1,0 +1,11 @@
+1) HackTheBot   
+2) bots
+    - what bots can do
+    - examples of bots
+    - different APIs to create bots
+    - Discord API
+3) preparing the environment
+4) live coding
+
+
+
