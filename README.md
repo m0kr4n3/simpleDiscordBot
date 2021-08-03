@@ -17,7 +17,7 @@ cd SimpleDiscordBot/
 pip3 install -r requirements.txt
 ```
 3. Create a discord application and get an Application token, check out the [documentation](https://discord.com/developers/docs/intro)
-4. Set your `DISCORD_TOKEN` and `DISCORD_GUILD` in .env file like that :
+4. Set your `DISCORD_TOKEN` and `DISCORD_GUILD` in .env file in the same directory of bot.py like that :
 ```
 # .env
 DISCORD_TOKEN={your-bot-token}
