@@ -16,9 +16,9 @@ async def on_ready():
 
 
 
-@bot.command(name='mokrane',help='Responds any thing')
+@bot.command(name='Hello',help='Say hello there')
 async def mokrane(ctx):
-    respond = 'Hi I\'m Mokrane !'
+    respond = 'Hello there!'
     await ctx.send(respond)
 
 
