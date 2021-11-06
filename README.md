@@ -21,7 +21,6 @@ pip3 install -r requirements.txt
 ```
 # .env
 DISCORD_TOKEN={your-bot-token}
-DISCORD_GUILD={your-guild-name}
 ```
 
 4. Run the [bot.py](./bot.py)

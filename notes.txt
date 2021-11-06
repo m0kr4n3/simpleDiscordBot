@@ -1,0 +1,19 @@
+1) introduction
+    - bots
+    - discord bots
+    - API 
+    
+2) starting developping bots
+    - creating a guild (discord server)
+    - creating discord application -> bot
+    - connecting our bot to our server
+    - installing discord API python dependencies
+    - setting the environment and launching the bot
+    - making our first commands
+
+
+
+
+
+Resources:
+    https://realpython.com/how-to-make-a-discord-bot-python/
