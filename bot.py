@@ -27,8 +27,8 @@ async def hello(ctx):
     await ctx.send("Hi, what's your name ?")
     name = await bot.wait_for('message',timeout=60,
                     check=lambda message:message.author.id == ctx.message.author.id)
-    message = f"Nice to meet you {name.content}"
     
+    message = f"Nice to meet you {name.content}"
     embedded_message = discord.Embed(title=message,description='',color=0x00FF00)
     
     await ctx.send(embed=embedded_message)
